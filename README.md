@@ -81,7 +81,7 @@
 ### Project 4 - Advanced Lane Finding
 |link|author|date|
 |:---|:---|:---|
-|[Advanced computer vision with OpenCV, finding lane lines](https://medium.com/becoming-human/self-driving-cars-deep-neural-networks-and-convolutional-neural-networks-applied-to-clone-driving-ee2c623ac9b5)|Ricardo Zuccolo|2017/04/03
+|[Advanced computer vision with OpenCV, finding lane lines](https://chatbotslife.com/self-driving-cars-advanced-computer-vision-with-opencv-finding-lane-lines-488a411b2c3d)|Ricardo Zuccolo|2017/04/03
 |[Project 4 - Advanced Lane Line Finding](https://www.linkedin.com/pulse/udacity-self-driving-car-engineering-project-4-advanced-de-boer?published=t)|Martijn de Boer|2017/03/30
 |[Road Lane Lines Detection using Advanced Computer Vision Techniques](https://medium.com/@mithi/advanced-lane-finding-using-computer-vision-techniques-7f3230b6c6f2)|Mithi Sevilla|2017/03/26
 |[Automatic Lane Detection for Self Driving Cars](https://medium.com/towards-data-science/https-medium-com-priya-dwivedi-automatic-lane-detection-for-self-driving-cars-4f8b3dc0fb65)|Priya Dwivedi|2017/03/19
