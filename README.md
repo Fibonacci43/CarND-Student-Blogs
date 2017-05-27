@@ -13,6 +13,7 @@
 ### Project 1 - Finding Lane Lines
 |link|author|date|
 |:---|:---|:---|
+|[Road lanes recognition with OpenCV, Python and iOS](https://medium.com/pharos-production/road-lane-recognition-with-opencv-and-ios-a892a3ab635c)|Dmytro Nasyrov|2017/05/06
 |[Temporal Smoothing to Remove Jitter in Detected Lane Lines](https://medium.com/@liamondrop/temporal-smoothing-to-remove-jitter-in-detected-lane-lines-d1430cb5c106#.bgb1gaz22)|Liam Bowers|2017/03/08
 |[CarND Project 1: Lane Lines Detection — A Complete Pipeline](https://medium.com/@kirilldaniluk/carnd-project-1-lane-lines-detection-a-complete-pipeline-6b815037d02c#.6lj0ufs92)|Kirill Danilyuk|2017/02/27
 |[Detecting Lane Lines — Udacity SDCND](https://becominghuman.ai/detecting-lane-lines-udacity-sdcnd-b52bf36193cb)|David Clark|2017/02/22
@@ -86,6 +87,7 @@
 ### Project 4 - Advanced Lane Finding
 |link|author|date|
 |:---|:---|:---|
+|[Advanced Lane-Detection for Self-Driving Cars](https://becominghuman.ai/advanced-lane-detection-for-self-driving-cars-9579e1f057ef)|David Clark|2017/05/24
 |[Advanced computer vision with OpenCV, finding lane lines](https://chatbotslife.com/self-driving-cars-advanced-computer-vision-with-opencv-finding-lane-lines-488a411b2c3d)|Ricardo Zuccolo|2017/04/03
 |[Project 4 - Advanced Lane Line Finding](https://www.linkedin.com/pulse/udacity-self-driving-car-engineering-project-4-advanced-de-boer?published=t)|Martijn de Boer|2017/03/30
 |[Road Lane Lines Detection using Advanced Computer Vision Techniques](https://medium.com/@mithi/advanced-lane-finding-using-computer-vision-techniques-7f3230b6c6f2)|Mithi Sevilla|2017/03/26
@@ -147,4 +149,9 @@
 |link|author|date|
 |:---|:---|:---|
 |[Helping a Self Driving Car Localize itself](https://medium.com/towards-data-science/helping-a-self-driving-car-localize-itself-88705f419e4a)|Priya Dwivedi|2017/05/01
+
+### Project 10 - Model Predictive Control
+|link|author|date|
+|:---|:---|:---|
+|[Autonomous Driving using Predictive Control Model](https://medium.com/@AnupriyaChhabra/autonomous-driving-using-predictive-control-model-e67d1ab09c43)|Anupriya Chhabra|2017/05/25
 
