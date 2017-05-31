@@ -5,6 +5,8 @@
 ### Overview - Term 1
 |link|author|date|
 |:---|:---|:---|
+|[Udacity's Self-Driving Car Nanodegree - Term 1](http://darienmt.com/self-driving-cars/2017/05/30/self-driving-car-nanodegree-term-1.html)|Darien Martinez|2017/05/30
+|[At the end of Term 1 — Udacity’s SDCND](https://medium.com/@vishalrangras/at-the-end-of-term-1-udacitys-sdcnd-342ca54adf51)|Vishal Rangras|2017/05/28
 |[Diving into the world of self-driving cars](https://medium.com/towards-data-science/diving-into-the-world-of-self-driving-cars-5355474ae630)|Michael Virgo|2017/04/17
 |[Note to My Past Self: Pro Tips for Term 1 of the Udacity Self-Driving Car Nanodegree](https://medium.com/@dwolfATL/note-to-my-past-self-pro-tips-for-term-1-of-the-udacity-self-driving-car-nanodegree-76d6a3f2467e)|Daniel Wolf|2017/04/12
 |[A Short Review of Udacity’s Self-Driving Car Engineer Nanodegree — First Term](https://medium.com/@mithi/a-short-review-of-udacitys-self-driving-car-engineer-nanodegree-term-1-e36f5b9a72)|Mithi Sevilla|2017/04/06
