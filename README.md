@@ -132,6 +132,11 @@
 
 ## Term 2: Sensor Fusion, Localization, and Control
 
+### Overview - Term 2
+|link|author|date|
+|:---|:---|:---|
+|[A Review of Udacity’s Self-Driving Car Engineer Nanodegree — Second Term](https://medium.com/@mithi/a-review-of-udacitys-self-driving-car-engineer-nanodegree-second-term-56147f1d01ef)|Mithi Sevilla|2017/06/02
+
 ### Project 6 - Extended Kalman Filter
 |link|author|date|
 |:---|:---|:---|
