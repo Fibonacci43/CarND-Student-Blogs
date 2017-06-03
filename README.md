@@ -19,6 +19,7 @@
 |[Temporal Smoothing to Remove Jitter in Detected Lane Lines](https://medium.com/@liamondrop/temporal-smoothing-to-remove-jitter-in-detected-lane-lines-d1430cb5c106#.bgb1gaz22)|Liam Bowers|2017/03/08
 |[CarND Project 1: Lane Lines Detection — A Complete Pipeline](https://medium.com/@kirilldaniluk/carnd-project-1-lane-lines-detection-a-complete-pipeline-6b815037d02c#.6lj0ufs92)|Kirill Danilyuk|2017/02/27
 |[Detecting Lane Lines — Udacity SDCND](https://becominghuman.ai/detecting-lane-lines-udacity-sdcnd-b52bf36193cb)|David Clark|2017/02/22
+|[Self-driving Car ND A1, finding lane](http://www.yuchao.us/2017/02/scnd-11-finding-lane.html)|Yuchao Jiang|2017/02/19
 |[OpenCV for Lane Detection — CarND](https://medium.com/@gruby/opencv-for-lane-detection-carnd-f9d58d077ee2#.hsy5is5sc)|Satya Sheel|2017/02/06
 |[Robust Extrapolation of Lines in Video Using Probabilistic Hough Transform](https://medium.com/@esmat.anis/robust-extrapolation-of-lines-in-video-using-linear-hough-transform-edd39d642ddf#.2knd55tnu)|Esmat Nabil|2017/01/28
 |[Building a lane detection system using Python 3 and OpenCV](https://medium.com/@galen.ballew/opencv-lanedetection-419361364fc0#.6x2ndz7yc)|Galen Ballew|2017/01/24
@@ -36,6 +37,7 @@
 |link|author|date|
 |:---|:---|:---|
 |[Classifying Traffic Signs](https://becominghuman.ai/classifying-traffic-signs-728744d3deac)|David Clark|2017/04/04
+|[Self-driving Car ND A2, traffic sign classifier](http://www.yuchao.us/2017/04/self-driving-car-nd-a2-traffic-sign.html)|Yuchao Jiang|2017/04/01
 |[Updated! My 99.68% solution to Udacity Nanodegree project P2](https://medium.com/@hengcherkeng/updated-my-99-68-solution-to-udacity-nanodegree-project-p2-traffic-sign-classification-56840768dec8#.4807n9nd9)|Cherkeng Heng|2017/02/26
 |[Convolutional Neural Network for Traffic Sign Classification — CarND](https://medium.com/@gruby/convolutional-neural-network-for-traffic-sign-classification-carnd-e46e95453899#.ox1vp94ry)|Satya Sheel|2017/02/02
 |[UDACITY SDCE Nanodegree: Term 1- Project 2: Traffic Sign Classifier!](https://medium.com/@ckyrkou/udacity-sdc-nanodegree-term-1-project-2-traffic-sign-classifier-8d8a30e735b8#.me21jqo81)|Christos Kyrkou|2017/02/01
@@ -53,6 +55,7 @@
 |:---|:---|:---|
 |[Behavioral Cloning: Tiny Mistake Cost Me 15 days](https://medium.com/becoming-human/behavioral-cloning-tiny-mistake-cost-me-15-days-23dd13a3b525)|Yazeed Alrubyli|2017/04/26
 |[End-to-End Self-Driving Car Using Behavioral Cloning](https://becominghuman.ai/end-to-end-self-driving-car-using-behavioral-cloning-5cad2610522c)|David Clark|2017/04/22
+|[Self-driving Car ND A3,, transfer learning, behavioral cloning](http://www.yuchao.us/2017/04/self-driving-car-nd-a3.html)|Yuchao Jiang|2017/04/07
 |[Cloning Driving Behavior with Keras and a Videogame-Like Simulator](https://medium.com/@mithi/cloning-driving-behavior-with-videogame-like-simulator-and-keras-e31129a8e3b6)|Mithi Sevilla|2017/04/05
 |[Deep neural networks and convolutional neural networks applied to clone driving behavior](https://medium.com/becoming-human/self-driving-cars-deep-neural-networks-and-convolutional-neural-networks-applied-to-clone-driving-ee2c623ac9b5)|Ricardo Zuccolo|2017/04/03
 |[Making A Virtual Self-Driving Car](https://medium.com/@muddassirahmed/making-a-virtual-self-driving-car-2d81f3f539e8)|Muddassir Ahmed|2017/03/31
@@ -90,6 +93,7 @@
 |link|author|date|
 |:---|:---|:---|
 |[Advanced Lane-Detection for Self-Driving Cars](https://becominghuman.ai/advanced-lane-detection-for-self-driving-cars-9579e1f057ef)|David Clark|2017/05/24
+|[Self-driving Car ND A4, Advanced lane line, ending summary](http://www.yuchao.us/2017/04/self-driving-car-nd-a4-advanced-lane.html)|Yuchao Jiang|2017/04/19
 |[Advanced computer vision with OpenCV, finding lane lines](https://chatbotslife.com/self-driving-cars-advanced-computer-vision-with-opencv-finding-lane-lines-488a411b2c3d)|Ricardo Zuccolo|2017/04/03
 |[Project 4 - Advanced Lane Line Finding](https://www.linkedin.com/pulse/udacity-self-driving-car-engineering-project-4-advanced-de-boer?published=t)|Martijn de Boer|2017/03/30
 |[Road Lane Lines Detection using Advanced Computer Vision Techniques](https://medium.com/@mithi/advanced-lane-finding-using-computer-vision-techniques-7f3230b6c6f2)|Mithi Sevilla|2017/03/26
@@ -118,6 +122,7 @@
 |[Udacity Self Driving Car Engineering Project 5 - Vehicle Detection](https://www.linkedin.com/pulse/udacity-self-driving-car-engineering-project-5-vehicle-de-boer)|Martijn de Boer|2017/05/14
 |[SqueezeDet: Deep Learning for Object Detection](https://mez.github.io/2017/04/21/squeezedet-deep-learning-for-object-detection/)|Mez Gebre|2017/04/21
 |[OpenCV and SVM Machine Learning with Scikit-Learn for Vehicle Detection on the Road](https://medium.com/@ricardo.zuccolo/self-driving-cars-opencv-and-svm-machine-learning-with-scikit-learn-for-vehicle-detection-on-the-bf88860e055a)|Ricardo Zuccolo|2017/04/18
+|[Self-driving Car ND A5, Vehicle detection](http://www.yuchao.us/2017/04/self-driving-car-nd-a5-vehicle-detection.html)|Yuchao Jiang|2017/04/15
 |[Vehicle-Tracking with HOG and Linear SVM](https://medium.com/@mithi/vehicles-tracking-with-hog-and-linear-svm-c9f27eaf521a)|Mithi Sevilla|2017/03/28
 |[Vehicle detection](https://medium.com/@MSqalli/vehicle-detection-497a779fbe21#.v92g99y9g)|Mehdi Sqalli|2017/03/27
 |[Automatic Vehicle Detection for Self Driving Cars](https://medium.com/towards-data-science/automatic-vehicle-detection-for-self-driving-cars-8d98c086b161)|Priya Dwivedi|2017/03/19
@@ -140,6 +145,7 @@
 ### Project 6 - Extended Kalman Filter
 |link|author|date|
 |:---|:---|:---|
+|[A gentle guide to start Extended Kalman Filter project](http://www.yuchao.us/2017/06/a-gentle-guide-to-start-extended-kalman.html)|Yuchao Jiang|2017/06/01
 |[Sensor Fusion and Object Tracking using an Extended Kalman Filter Algorithm](https://medium.com/@mithi/object-tracking-and-fusing-sensor-measurements-using-the-extended-kalman-filter-algorithm-part-1-f2158ef1e4f0)|Mithi Sevilla|2017/05/10
 |[Udacity Self-Driving Car Nanodegree Project 6 — Extended Kalman Filter](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-6-extended-kalman-filter-c3eac16c283d)|Jeremy Shannon|2017/04/21
 |[Tracking pedestrians for self driving cars](https://medium.com/towards-data-science/tracking-pedestrians-for-self-driving-cars-ccf588acd170)|Priya Dwivedi|2017/04/13
