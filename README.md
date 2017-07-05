@@ -31,11 +31,13 @@
 |[Self-Driving Car Engineer Diary — 2](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-2-11eacba4d2a7#.3a1basmcf)|Andrew Wilkie|2016/12/18
 |[My Lane Detection Project in the Self Driving Car Nanodegree by Udacity](https://medium.com/towards-data-science/my-lane-detection-project-for-the-self-driving-car-nanodegree-by-udacity-36a230553bd3#.vc1n9k24l)|Param Aggarwal|2016/12/07
 |[My first lane detection algo](https://medium.com/@NickHortovanyi/my-first-lane-detection-algo-431e556324e#.cvv76vowu)|Nick Hortovanyi|2016/12/05
+|[Detecting Car Lane Lines using Computer Vision](https://medium.com/@vijay120/detecting-car-lane-lines-using-computer-vision-d23b2dafdf4c)|Vijay Ramakrishnan|2016/12/04
 |[Lane detection](https://medium.com/@MSqalli/lane-detection-446986c44021#.wo9a6tuib)|Mehdi Sqalli|2016/11/06
 
 ### Project 2 - Traffic Sign Classifier
 |link|author|date|
 |:---|:---|:---|
+|[Identifying Traffic Signs with Deep Learning](https://medium.com/towards-data-science/identifying-traffic-signs-with-deep-learning-5151eece09cb)|Harshit Sharma|2017/06/28
 |[Classifying Traffic Signs](https://becominghuman.ai/classifying-traffic-signs-728744d3deac)|David Clark|2017/04/04
 |[Self-driving Car ND A2, traffic sign classifier](http://www.yuchao.us/2017/04/self-driving-car-nd-a2-traffic-sign.html)|Yuchao Jiang|2017/04/01
 |[Updated! My 99.68% solution to Udacity Nanodegree project P2](https://medium.com/@hengcherkeng/updated-my-99-68-solution-to-udacity-nanodegree-project-p2-traffic-sign-classification-56840768dec8#.4807n9nd9)|Cherkeng Heng|2017/02/26
@@ -53,6 +55,7 @@
 ### Project 3 - Behavioral Cloning
 |link|author|date|
 |:---|:---|:---|
+|[Steering Self Driving Car without LIDAR](https://medium.com/towards-data-science/steering-self-driving-car-without-lidar-a6b0a4d2e2f1)|Harshit Sharma|2017/06/22
 |[Behavioral Cloning: Tiny Mistake Cost Me 15 days](https://medium.com/becoming-human/behavioral-cloning-tiny-mistake-cost-me-15-days-23dd13a3b525)|Yazeed Alrubyli|2017/04/26
 |[End-to-End Self-Driving Car Using Behavioral Cloning](https://becominghuman.ai/end-to-end-self-driving-car-using-behavioral-cloning-5cad2610522c)|David Clark|2017/04/22
 |[Self-driving Car ND A3,, transfer learning, behavioral cloning](http://www.yuchao.us/2017/04/self-driving-car-nd-a3.html)|Yuchao Jiang|2017/04/07
@@ -163,8 +166,15 @@
 |:---|:---|:---|
 |[Helping a Self Driving Car Localize itself](https://medium.com/towards-data-science/helping-a-self-driving-car-localize-itself-88705f419e4a)|Priya Dwivedi|2017/05/01
 
+### Project 9 - PID Control
+|link|author|date|
+|:---|:---|:---|
+|[Self-Driving Car Engineer Diary — 10](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-10-6240b6d0add)|Andrew Wilkie|2017/07/02
+|[Udacity Self-Driving Car Nanodegree Project 9 — PID Control](https://medium.com/@jeremyeshannon/udacity-self-driving-car-nanodegree-project-9-pid-control-9c0cf6cc24e1)|Jeremy Shannon|2017/06/16
+
 ### Project 10 - Model Predictive Control
 |link|author|date|
 |:---|:---|:---|
+|[Udacity Self-Driving Car Nanodegree Project 10 — Model Predictive Control](https://medium.com/towards-data-science/udacity-self-driving-car-nanodegree-project-10-model-predictive-control-e9b4195d3f9)|Jeremy Shannon|2017/06/30
 |[Autonomous Driving using Predictive Control Model](https://medium.com/@AnupriyaChhabra/autonomous-driving-using-predictive-control-model-e67d1ab09c43)|Anupriya Chhabra|2017/05/25
 
