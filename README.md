@@ -164,6 +164,7 @@
 ### Project 8 - Kidnapped Vehicle
 |link|author|date|
 |:---|:---|:---|
+|[Udacity Self-Driving Car Nanodegree Project 8 — Kidnapped Vehicle](https://medium.com/@jeremyeshannon/udacity-self-driving-car-nanodegree-project-8-kidnapped-vehicle-8cfa90b0c42)|Jeremy Shannon|2017/05/26
 |[Helping a Self Driving Car Localize itself](https://medium.com/towards-data-science/helping-a-self-driving-car-localize-itself-88705f419e4a)|Priya Dwivedi|2017/05/01
 
 ### Project 9 - PID Control
