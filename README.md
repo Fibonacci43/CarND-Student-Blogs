@@ -170,6 +170,7 @@
 ### Project 9 - PID Control
 |link|author|date|
 |:---|:---|:---|
+|[Tuning PID Controller Parameters with Backpropagation](https://medium.com/@ivankazakov/tuning-pid-controller-parameters-with-backpropagation-c42c6f80d3cd)|Ivan Kazakov|2017/07/15
 |[Self-Driving Car Engineer Diary — 10](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-10-6240b6d0add)|Andrew Wilkie|2017/07/02
 |[Udacity Self-Driving Car Nanodegree Project 9 — PID Control](https://medium.com/@jeremyeshannon/udacity-self-driving-car-nanodegree-project-9-pid-control-9c0cf6cc24e1)|Jeremy Shannon|2017/06/16
 
