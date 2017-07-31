@@ -181,3 +181,9 @@
 |[Steering Control for self-driving car](https://medium.com/towards-data-science/how-self-driving-cars-steer-c8e4b5b55d7f)|Priya Dwivedi|2017/06/02
 |[Autonomous Driving using Predictive Control Model](https://medium.com/@AnupriyaChhabra/autonomous-driving-using-predictive-control-model-e67d1ab09c43)|Anupriya Chhabra|2017/05/25
 
+## Term 3: Path Planning, Concentrations, and Systems
+
+### Project 11 - Path Planning
+|link|author|date|
+|:---|:---|:---|
+|[Path Planning in Highways for an Autonomous Vehicle](https://medium.com/@mohankarthik/path-planning-in-highways-for-an-autonomous-vehicle-242b91e6387d)|Mohan Karthik|2017/07/30
