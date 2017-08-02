@@ -186,4 +186,5 @@
 ### Project 11 - Path Planning
 |link|author|date|
 |:---|:---|:---|
+|[Reflections on Designing a Virtual Highway Path Planner](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-1-3-937259164650)|Mithi Sevilla|2017/08/01
 |[Path Planning in Highways for an Autonomous Vehicle](https://medium.com/@mohankarthik/path-planning-in-highways-for-an-autonomous-vehicle-242b91e6387d)|Mohan Karthik|2017/07/30
