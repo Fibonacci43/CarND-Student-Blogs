@@ -95,6 +95,7 @@
 ### Project 4 - Advanced Lane Finding
 |link|author|date|
 |:---|:---|:---|
+|[Robust Lane Tracking](http://petermoran.org/robust-lane-tracking/)|Peter Moran|2017/09/21
 |[Advanced Lane-Detection for Self-Driving Cars](https://becominghuman.ai/advanced-lane-detection-for-self-driving-cars-9579e1f057ef)|David Clark|2017/05/24
 |[Self-driving Car ND A4, Advanced lane line, ending summary](http://www.yuchao.us/2017/04/self-driving-car-nd-a4-advanced-lane.html)|Yuchao Jiang|2017/04/19
 |[Advanced computer vision with OpenCV, finding lane lines](https://chatbotslife.com/self-driving-cars-advanced-computer-vision-with-opencv-finding-lane-lines-488a411b2c3d)|Ricardo Zuccolo|2017/04/03
@@ -148,6 +149,7 @@
 ### Project 6 - Extended Kalman Filter
 |link|author|date|
 |:---|:---|:---|
+|[Extended Kalman Filters for Dummies](https://medium.com/@serrano_223/extended-kalman-filters-for-dummies-4168c68e2117)|Raúl Serrano|2017/08/18
 |[A gentle guide to start Extended Kalman Filter project](http://www.yuchao.us/2017/06/a-gentle-guide-to-start-extended-kalman.html)|Yuchao Jiang|2017/06/01
 |[Sensor Fusion and Object Tracking using an Extended Kalman Filter Algorithm](https://medium.com/@mithi/object-tracking-and-fusing-sensor-measurements-using-the-extended-kalman-filter-algorithm-part-1-f2158ef1e4f0)|Mithi Sevilla|2017/05/10
 |[Udacity Self-Driving Car Nanodegree Project 6 — Extended Kalman Filter](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-6-extended-kalman-filter-c3eac16c283d)|Jeremy Shannon|2017/04/21
@@ -186,5 +188,7 @@
 ### Project 11 - Path Planning
 |link|author|date|
 |:---|:---|:---|
+|[Highway Path Planning](https://medium.com/@kastsiukavets.alena/highway-path-planning-696215cbf062)|Alena Kastsiukavets|2017/09/22
+|[Self-Driving Car Engineer Diary — 11](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-11-68b1f0434f87)|Andrew Wilkie|2017/08/22
 |[Reflections on Designing a Virtual Highway Path Planner](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-1-3-937259164650)|Mithi Sevilla|2017/08/01
 |[Path Planning in Highways for an Autonomous Vehicle](https://medium.com/@mohankarthik/path-planning-in-highways-for-an-autonomous-vehicle-242b91e6387d)|Mohan Karthik|2017/07/30
