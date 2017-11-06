@@ -196,6 +196,12 @@
 |:---|:---|:---|
 |[Udacity Self Driving Car ND Path Planning Project](https://medium.com/@philippe.weingertner/udacity-self-driving-car-nd-path-planning-project-6558f6d77887)|Philippe Weingertner|2017/10/29
 |[Highway Path Planning](https://medium.com/@kastsiukavets.alena/highway-path-planning-696215cbf062)|Alena Kastsiukavets|2017/09/22
+|[Udacity Self-Driving Car Nanodegree Project 11 — Path Planning , Part 1](https://medium.com/@jeremyeshannon/udacity-self-driving-car-nanodegree-project-11-path-planning-part-1-f52f50f36b52)|Jeremy Shannon|2017/08/25
 |[Self-Driving Car Engineer Diary — 11](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-11-68b1f0434f87)|Andrew Wilkie|2017/08/22
 |[Reflections on Designing a Virtual Highway Path Planner](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-1-3-937259164650)|Mithi Sevilla|2017/08/01
 |[Path Planning in Highways for an Autonomous Vehicle](https://medium.com/@mohankarthik/path-planning-in-highways-for-an-autonomous-vehicle-242b91e6387d)|Mohan Karthik|2017/07/30
+
+### Project 12 - Semantic Segmentation
+|link|author|date|
+|:---|:---|:---|
+|[Udacity Self-Driving Car Nanodegree Project 12 — Semantic Segmentation](https://medium.com/@jeremyeshannon/udacity-self-driving-car-nanodegree-project-12-semantic-segmentation-133281f56f28)|Jeremy Shannon|2017/09/15
