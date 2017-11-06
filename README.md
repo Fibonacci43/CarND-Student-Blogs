@@ -144,6 +144,7 @@
 ### Overview - Term 2
 |link|author|date|
 |:---|:---|:---|
+|[Autonomous Journey through Term 2 of Self-Driving Car Nano-degree with Udacity](https://medium.com/@vishalrangras/autonomous-journey-through-term-2-of-self-driving-car-nano-degree-with-udacity-df55c4c43998)|Vishal Rangras|2017/11/04
 |[A Review of Udacity’s Self-Driving Car Engineer Nanodegree — Second Term](https://medium.com/@mithi/a-review-of-udacitys-self-driving-car-engineer-nanodegree-second-term-56147f1d01ef)|Mithi Sevilla|2017/06/02
 
 ### Project 6 - Extended Kalman Filter
@@ -185,9 +186,15 @@
 
 ## Term 3: Path Planning, Concentrations, and Systems
 
+### Overview - Term 3
+|link|author|date|
+|:---|:---|:---|
+|[A Review of Udacity’s Self-Driving Car Nanodegree — Third Term and Beyond!](https://medium.com/@mithi/a-review-of-udacitys-self-driving-car-nanodegree-third-term-and-beyond-cccc165a27a2)|Mithi Sevilla|2017/10/29
+
 ### Project 11 - Path Planning
 |link|author|date|
 |:---|:---|:---|
+|[Udacity Self Driving Car ND Path Planning Project](https://medium.com/@philippe.weingertner/udacity-self-driving-car-nd-path-planning-project-6558f6d77887)|Philippe Weingertner|2017/10/29
 |[Highway Path Planning](https://medium.com/@kastsiukavets.alena/highway-path-planning-696215cbf062)|Alena Kastsiukavets|2017/09/22
 |[Self-Driving Car Engineer Diary — 11](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-11-68b1f0434f87)|Andrew Wilkie|2017/08/22
 |[Reflections on Designing a Virtual Highway Path Planner](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-1-3-937259164650)|Mithi Sevilla|2017/08/01
