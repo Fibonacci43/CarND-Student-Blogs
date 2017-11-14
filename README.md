@@ -15,6 +15,7 @@
 ### Project 1 - Finding Lane Lines
 |link|author|date|
 |:---|:---|:---|
+|[Udacity Self-Driving Car Nanodegree Project 1 — Finding Lane Lines](https://medium.com/computer-car/udacity-self-driving-car-nanodegree-project-1-finding-lane-lines-9cd6a846c58c)|Eddie Forson|2017/07/25
 |[Road lanes recognition with OpenCV, Python and iOS](https://medium.com/pharos-production/road-lane-recognition-with-opencv-and-ios-a892a3ab635c)|Dmytro Nasyrov|2017/05/06
 |[Temporal Smoothing to Remove Jitter in Detected Lane Lines](https://medium.com/@liamondrop/temporal-smoothing-to-remove-jitter-in-detected-lane-lines-d1430cb5c106#.bgb1gaz22)|Liam Bowers|2017/03/08
 |[CarND Project 1: Lane Lines Detection — A Complete Pipeline](https://medium.com/@kirilldaniluk/carnd-project-1-lane-lines-detection-a-complete-pipeline-6b815037d02c#.6lj0ufs92)|Kirill Danilyuk|2017/02/27
@@ -37,6 +38,8 @@
 ### Project 2 - Traffic Sign Classifier
 |link|author|date|
 |:---|:---|:---|
+|[Understand and apply CapsNet on Traffic sign classification](https://becominghuman.ai/understand-and-apply-capsnet-on-traffic-sign-classification-a592e2d4a4ea)|Thibault Neveu|2017/11/09
+|[Recognising Traffic Signs With 98% Accuracy Using Deep Learning](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab)|Eddie Forson|2017/08/24
 |[Identifying Traffic Signs with Deep Learning](https://medium.com/towards-data-science/identifying-traffic-signs-with-deep-learning-5151eece09cb)|Harshit Sharma|2017/06/28
 |[Classifying Traffic Signs](https://becominghuman.ai/classifying-traffic-signs-728744d3deac)|David Clark|2017/04/04
 |[Self-driving Car ND A2, traffic sign classifier](http://www.yuchao.us/2017/04/self-driving-car-nd-a2-traffic-sign.html)|Yuchao Jiang|2017/04/01
@@ -55,6 +58,7 @@
 ### Project 3 - Behavioral Cloning
 |link|author|date|
 |:---|:---|:---|
+|[Teaching Cars To Drive Using Deep Learning — Steering Angle Prediction](https://towardsdatascience.com/teaching-cars-to-drive-using-deep-learning-steering-angle-prediction-5773154608f2)|Eddie Forson|2017/09/16
 |[Steering Self Driving Car without LIDAR](https://medium.com/towards-data-science/steering-self-driving-car-without-lidar-a6b0a4d2e2f1)|Harshit Sharma|2017/06/22
 |[Behavioral Cloning: Tiny Mistake Cost Me 15 days](https://medium.com/becoming-human/behavioral-cloning-tiny-mistake-cost-me-15-days-23dd13a3b525)|Yazeed Alrubyli|2017/04/26
 |[End-to-End Self-Driving Car Using Behavioral Cloning](https://becominghuman.ai/end-to-end-self-driving-car-using-behavioral-cloning-5cad2610522c)|David Clark|2017/04/22
@@ -95,6 +99,7 @@
 ### Project 4 - Advanced Lane Finding
 |link|author|date|
 |:---|:---|:---|
+|[Teaching Cars To See — Advanced Lane Detection Using Computer Vision](https://towardsdatascience.com/teaching-cars-to-see-advanced-lane-detection-using-computer-vision-87a01de0424f)|Eddie Forson|2017/10/06
 |[Robust Lane Tracking](http://petermoran.org/robust-lane-tracking/)|Peter Moran|2017/09/21
 |[Advanced Lane-Detection for Self-Driving Cars](https://becominghuman.ai/advanced-lane-detection-for-self-driving-cars-9579e1f057ef)|David Clark|2017/05/24
 |[Self-driving Car ND A4, Advanced lane line, ending summary](http://www.yuchao.us/2017/04/self-driving-car-nd-a4-advanced-lane.html)|Yuchao Jiang|2017/04/19
@@ -122,6 +127,7 @@
 ### Project 5 - Vehicle Detection and Tracking
 |link|author|date|
 |:---|:---|:---|
+|[Teaching Cars To See — Vehicle Detection Using Machine Learning And Computer Vision](https://towardsdatascience.com/teaching-cars-to-see-vehicle-detection-using-machine-learning-and-computer-vision-54628888079a)|Eddie Forson|2017/10/25
 |[Vehicle Detection and Tracking](https://medium.com/towards-data-science/vehicle-detection-and-tracking-44b851d70508)|Ivan Kazakov|2017/05/14
 |[Udacity Self Driving Car Engineering Project 5 - Vehicle Detection](https://www.linkedin.com/pulse/udacity-self-driving-car-engineering-project-5-vehicle-de-boer)|Martijn de Boer|2017/05/14
 |[SqueezeDet: Deep Learning for Object Detection](https://mez.github.io/2017/04/21/squeezedet-deep-learning-for-object-detection/)|Mez Gebre|2017/04/21
