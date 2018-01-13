@@ -196,6 +196,7 @@
 ### Overview - Term 3
 |link|author|date|
 |:---|:---|:---|
+|[Udacity's Self-Driving Car Nanodegree - Term 3](http://darienmt.com/self-driving-cars/2018/01/08/self-driving-car-nanodegree-term-3.html)|Darien Martinez|2018/01/08
 |[A Review of Udacity’s Self-Driving Car Nanodegree — Third Term and Beyond!](https://medium.com/@mithi/a-review-of-udacitys-self-driving-car-nanodegree-third-term-and-beyond-cccc165a27a2)|Mithi Sevilla|2017/10/29
 
 ### Project 11 - Path Planning
