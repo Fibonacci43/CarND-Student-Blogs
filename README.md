@@ -213,4 +213,5 @@
 ### Project 12 - Semantic Segmentation
 |link|author|date|
 |:---|:---|:---|
+|[Semantic Segmentation using Fully Convolutional Network](https://medium.com/@aolszak/udacity-self-driving-car-nanodegree-semantic-segmentation-using-fully-convolutional-network-4b54d4005ab9)|Artur Olszak|2017/09/17
 |[Udacity Self-Driving Car Nanodegree Project 12 — Semantic Segmentation](https://medium.com/@jeremyeshannon/udacity-self-driving-car-nanodegree-project-12-semantic-segmentation-133281f56f28)|Jeremy Shannon|2017/09/15
