@@ -5,6 +5,7 @@
 ### Overview - Term 1
 |link|author|date|
 |:---|:---|:---|
+|[AI… And the vehicle went autonomous](https://medium.com/@jeremyscohen/ai-and-the-vehicle-went-autonomous-e176c73239c6)|Jeremy S. Cohen|2018/01/24
 |[Udacity's Self-Driving Car Nanodegree - Term 1](http://darienmt.com/self-driving-cars/2017/05/30/self-driving-car-nanodegree-term-1.html)|Darien Martinez|2017/05/30
 |[At the end of Term 1 — Udacity’s SDCND](https://medium.com/@vishalrangras/at-the-end-of-term-1-udacitys-sdcnd-342ca54adf51)|Vishal Rangras|2017/05/28
 |[Diving into the world of self-driving cars](https://medium.com/towards-data-science/diving-into-the-world-of-self-driving-cars-5355474ae630)|Michael Virgo|2017/04/17
