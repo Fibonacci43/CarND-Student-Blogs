@@ -39,6 +39,7 @@
 ### Project 2 - Traffic Sign Classifier
 |link|author|date|
 |:---|:---|:---|
+|[Traffic Signs Classification: Udacity Self-Driving Cars](https://medium.com/@sashankaryal/traffic-signs-classification-udacity-self-driving-cars-ad1e0ad5fcb2)|Sashank Aryal|2018/01/27
 |[Understand and apply CapsNet on Traffic sign classification](https://becominghuman.ai/understand-and-apply-capsnet-on-traffic-sign-classification-a592e2d4a4ea)|Thibault Neveu|2017/11/09
 |[Recognising Traffic Signs With 98% Accuracy Using Deep Learning](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab)|Eddie Forson|2017/08/24
 |[Identifying Traffic Signs with Deep Learning](https://medium.com/towards-data-science/identifying-traffic-signs-with-deep-learning-5151eece09cb)|Harshit Sharma|2017/06/28
