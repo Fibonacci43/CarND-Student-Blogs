@@ -16,6 +16,7 @@
 ### Project 1 - Finding Lane Lines
 |link|author|date|
 |:---|:---|:---|
+|[Lane Detector — a first step](https://medium.com/@rjm2017/lane-detector-a-first-step-e0e7f71bcb9)|RJM|2017/12/23
 |[Udacity Self-Driving Car Nanodegree Project 1 — Finding Lane Lines](https://medium.com/computer-car/udacity-self-driving-car-nanodegree-project-1-finding-lane-lines-9cd6a846c58c)|Eddie Forson|2017/07/25
 |[Road lanes recognition with OpenCV, Python and iOS](https://medium.com/pharos-production/road-lane-recognition-with-opencv-and-ios-a892a3ab635c)|Dmytro Nasyrov|2017/05/06
 |[Temporal Smoothing to Remove Jitter in Detected Lane Lines](https://medium.com/@liamondrop/temporal-smoothing-to-remove-jitter-in-detected-lane-lines-d1430cb5c106#.bgb1gaz22)|Liam Bowers|2017/03/08
@@ -40,6 +41,7 @@
 |link|author|date|
 |:---|:---|:---|
 |[Traffic Signs Classification: Udacity Self-Driving Cars](https://medium.com/@sashankaryal/traffic-signs-classification-udacity-self-driving-cars-ad1e0ad5fcb2)|Sashank Aryal|2018/01/27
+|[Identifying traffic signs using CNN](https://medium.com/@rjm2017/identifying-traffic-signs-using-cnn-49ddb5397a53)|RJM|2018/01/11
 |[Understand and apply CapsNet on Traffic sign classification](https://becominghuman.ai/understand-and-apply-capsnet-on-traffic-sign-classification-a592e2d4a4ea)|Thibault Neveu|2017/11/09
 |[Recognising Traffic Signs With 98% Accuracy Using Deep Learning](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab)|Eddie Forson|2017/08/24
 |[Identifying Traffic Signs with Deep Learning](https://medium.com/towards-data-science/identifying-traffic-signs-with-deep-learning-5151eece09cb)|Harshit Sharma|2017/06/28
@@ -129,6 +131,7 @@
 ### Project 5 - Vehicle Detection and Tracking
 |link|author|date|
 |:---|:---|:---|
+|[Vehicle detection — options and recommendations](https://medium.com/@rjm2017/vehicle-detection-options-and-recommendations-b447fddccc22)|RJM|2018/01/29
 |[Teaching Cars To See — Vehicle Detection Using Machine Learning And Computer Vision](https://towardsdatascience.com/teaching-cars-to-see-vehicle-detection-using-machine-learning-and-computer-vision-54628888079a)|Eddie Forson|2017/10/25
 |[Vehicle Detection and Tracking](https://medium.com/towards-data-science/vehicle-detection-and-tracking-44b851d70508)|Ivan Kazakov|2017/05/14
 |[Udacity Self Driving Car Engineering Project 5 - Vehicle Detection](https://www.linkedin.com/pulse/udacity-self-driving-car-engineering-project-5-vehicle-de-boer)|Martijn de Boer|2017/05/14
